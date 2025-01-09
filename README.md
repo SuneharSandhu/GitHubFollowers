@@ -11,7 +11,9 @@ Leverages Async/Await Swift Concurrency
 
 #### Clone the Repository
 ```
-code blocks for commands
+git clone https://github.com/your-username/your-repo-name.git
+or
+git clone https://github.com/your-username/your-repo-name.git
 ```
 
 #### Open in Xcode
