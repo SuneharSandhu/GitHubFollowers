@@ -10,10 +10,9 @@ Leverages Async/Await Swift Concurrency
 ## Installation
 
 #### Clone the Repository
+Depending on your Git setup, you either can clone via HTTPS or SSH
 ```
-git clone https://github.com/your-username/your-repo-name.git
-or
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/SuneharSandhu/GitHubFollowers.git
 ```
 
 #### Open in Xcode
