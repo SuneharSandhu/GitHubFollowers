@@ -20,9 +20,7 @@ git clone https://github.com/SuneharSandhu/GitHubFollowers.git
 2. Build and run the project on the simulator or your device.
 
 ## 🚀 Demo
-![GHF1](https://github.com/user-attachments/assets/32f72057-cb54-47a2-8c32-9bc2f8f1122b)
-
-
-
-![GHF2](https://github.com/user-attachments/assets/c9d5e5ce-0bd6-4711-aecb-2b6b0ef8e495)
+<img src="https://github.com/user-attachments/assets/32f72057-cb54-47a2-8c32-9bc2f8f1122b" width="300" />
+<br>
+<img src="https://github.com/user-attachments/assets/c9d5e5ce-0bd6-4711-aecb-2b6b0ef8e495" width="300" />
 
